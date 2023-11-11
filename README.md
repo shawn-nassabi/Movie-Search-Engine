@@ -3,7 +3,8 @@
 ![Home Page Screenshot](documentation/home_page.png)
 
 Type in the name of your favorite movie and then click on the search icon to find results! \
-Uses the OMDb Api/
+\
+Uses the OMDb Api.
 
 # Getting Started with Create React App
 
