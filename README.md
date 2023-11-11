@@ -1,6 +1,8 @@
 # MovieLand - Movie Search Engine
 
+![Home Page Screenshot](documentation/home_page.png)
 
+Type in the name of your favorite movie and then click on the search icon to find results!
 
 # Getting Started with Create React App
 
